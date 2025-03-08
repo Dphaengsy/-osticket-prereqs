@@ -192,7 +192,7 @@ Enable the necessary PHP extensions by navigating to Sites -> Default -> osTicke
 
 
 
-Download and install HeidiSQL from the osTicket installation files, after that creat a new session on HeidiSQL and connect to the session and create a database named osTicket.
+Download and install HeidiSQL from the osTicket installation files, after that create a new session on HeidiSQL and connect to the session and create a database named osTicket.
 
 
 In the osTicket browser setup page, input the database information from HeidiSQL, and fill out all required fields
